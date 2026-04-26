@@ -1,7 +1,7 @@
 # Analysis of Nintendo's Market Dominance through Global Sales Data
 
 ## 1. Project Background & Problem Definition
-In the highly competitive video game industry, Nintendo has maintained a unique market position for decades. As a Year 2 Business student, I developed this data product to explore how Nintendo’s core software titles drive its commercial success. 
+In the highly competitive video game industry, Nintendo has maintained a unique market position for decades. As a Business student, I developed this data product to explore how Nintendo’s core software titles drive its commercial success. 
 
 **The analytical problem:** Which specific game genres and franchises contribute most to Nintendo's global revenue, and how does market performance vary across different geographic regions (North America, Japan, and Europe)?
 
