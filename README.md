@@ -18,10 +18,10 @@ In the highly competitive video game industry, Nintendo has maintained a unique 
 
 ## 4. Analytical Workflow (Python)
 This project follows a professional data science workflow:
-1. [cite_start]**Data Acquisition**: Importing raw data from CSV format[cite: 37].
-2. [cite_start]**Data Cleaning**: Filtering for 'Nintendo' as the publisher and removing incomplete records to ensure data integrity[cite: 37].
-3. [cite_start]**Data Transformation**: Sorting and aggregating sales figures to identify high-value products[cite: 37].
-4. [cite_start]**Visualisation**: Creating intuitive bar charts to communicate insights beyond raw numbers[cite: 37].
+1.**Data Acquisition**: Importing raw data from CSV format.
+2.**Data Cleaning**: Filtering for 'Nintendo' as the publisher and removing incomplete records to ensure data integrity.
+3.**Data Transformation**: Sorting and aggregating sales figures to identify high-value products.
+4.**Visualisation**: Creating intuitive bar charts to communicate insights beyond raw numbers.
 
 ## 5. Key Findings & Business Insights
 - **IP Power**: A small number of "Evergreen" franchises (like Mario and Pokemon) account for a disproportionate share of total sales, confirming the value of brand loyalty in the gaming industry.
