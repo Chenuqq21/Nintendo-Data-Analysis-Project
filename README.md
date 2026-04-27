@@ -30,3 +30,7 @@ This project follows a professional data science workflow:
 ## 6. How to Use this Repository
 - Open `ACC102_Nintendo_Analysis.ipynb` in Jupyter Notebook or Google Colab to see the full code and execution.
 - The raw data is provided in `vgchartz-2024.csv` for replication.
+
+## 7. Demo Video
+- ACC102 Nintendo-Data-Analysis-Project
+- [https://www.bilibili.com/video/BV12ioiBXEsC/]
