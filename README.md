@@ -33,4 +33,4 @@ This project follows a professional data science workflow:
 
 ## 7. Demo Video
 - ACC102 Nintendo-Data-Analysis-Project
-- [https://www.bilibili.com/video/BV12ioiBXEsC/]
+- https://www.bilibili.com/video/BV12ioiBXEsC/
